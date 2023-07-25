@@ -1,0 +1,15 @@
+C:\Ники\SoftUni\C# OOP\Exam\bin\Debug\net6.0\RobotService.exe
+C:\Ники\SoftUni\C# OOP\Exam\bin\Debug\net6.0\RobotService.deps.json
+C:\Ники\SoftUni\C# OOP\Exam\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Ники\SoftUni\C# OOP\Exam\bin\Debug\net6.0\RobotService.dll
+C:\Ники\SoftUni\C# OOP\Exam\bin\Debug\net6.0\RobotService.pdb
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.dll
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\refint\RobotService.dll
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.pdb
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Ники\SoftUni\C# OOP\Exam\obj\Debug\net6.0\ref\RobotService.dll
